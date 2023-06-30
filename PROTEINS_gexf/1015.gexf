@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="41519" label="41519">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41520" label="41520">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41521" label="41521">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41522" label="41522">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41523" label="41523">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41524" label="41524">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="41521" target="41519"/>
+      <edge id="1" source="41522" target="41519"/>
+      <edge id="10" source="41524" target="41523"/>
+      <edge id="2" source="41519" target="41520"/>
+      <edge id="3" source="41521" target="41520"/>
+      <edge id="4" source="41522" target="41520"/>
+      <edge id="5" source="41522" target="41521"/>
+      <edge id="6" source="41523" target="41521"/>
+      <edge id="7" source="41524" target="41521"/>
+      <edge id="8" source="41523" target="41522"/>
+      <edge id="9" source="41524" target="41522"/>
+    </edges>
+  </graph>
+</gexf>

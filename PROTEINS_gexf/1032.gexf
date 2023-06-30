@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="41993" label="41993">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41994" label="41994">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41995" label="41995">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41996" label="41996">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41997" label="41997">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41998" label="41998">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="41999" label="41999">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42000" label="42000">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42001" label="42001">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42002" label="42002">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42003" label="42003">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42004" label="42004">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42005" label="42005">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42006" label="42006">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42007" label="42007">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42008" label="42008">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42009" label="42009">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="41997" target="41993"/>
+      <edge id="1" source="41993" target="41994"/>
+      <edge id="10" source="41997" target="41996"/>
+      <edge id="11" source="42005" target="41996"/>
+      <edge id="12" source="41998" target="41997"/>
+      <edge id="13" source="42009" target="41997"/>
+      <edge id="14" source="42007" target="41998"/>
+      <edge id="15" source="42008" target="41998"/>
+      <edge id="16" source="42001" target="41999"/>
+      <edge id="17" source="42009" target="41999"/>
+      <edge id="18" source="42002" target="42000"/>
+      <edge id="19" source="42004" target="42000"/>
+      <edge id="2" source="41996" target="41994"/>
+      <edge id="20" source="42006" target="42000"/>
+      <edge id="21" source="42005" target="42001"/>
+      <edge id="22" source="42009" target="42001"/>
+      <edge id="23" source="42004" target="42002"/>
+      <edge id="24" source="42006" target="42002"/>
+      <edge id="25" source="42004" target="42003"/>
+      <edge id="26" source="42007" target="42003"/>
+      <edge id="27" source="42008" target="42003"/>
+      <edge id="28" source="42009" target="42003"/>
+      <edge id="29" source="42006" target="42004"/>
+      <edge id="3" source="41998" target="41994"/>
+      <edge id="30" source="42007" target="42004"/>
+      <edge id="31" source="42008" target="42004"/>
+      <edge id="32" source="42009" target="42005"/>
+      <edge id="33" source="42007" target="42006"/>
+      <edge id="34" source="42008" target="42007"/>
+      <edge id="35" source="42009" target="42008"/>
+      <edge id="4" source="42001" target="41994"/>
+      <edge id="5" source="42003" target="41994"/>
+      <edge id="6" source="41998" target="41995"/>
+      <edge id="7" source="42003" target="41995"/>
+      <edge id="8" source="42004" target="41995"/>
+      <edge id="9" source="42007" target="41995"/>
+    </edges>
+  </graph>
+</gexf>

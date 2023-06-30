@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="39726" label="39726">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39727" label="39727">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39728" label="39728">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39729" label="39729">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39730" label="39730">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39731" label="39731">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39732" label="39732">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="39728" target="39726"/>
+      <edge id="1" source="39729" target="39726"/>
+      <edge id="10" source="39730" target="39729"/>
+      <edge id="11" source="39731" target="39729"/>
+      <edge id="12" source="39731" target="39730"/>
+      <edge id="13" source="39732" target="39731"/>
+      <edge id="2" source="39730" target="39726"/>
+      <edge id="3" source="39731" target="39726"/>
+      <edge id="4" source="39732" target="39726"/>
+      <edge id="5" source="39726" target="39727"/>
+      <edge id="6" source="39728" target="39727"/>
+      <edge id="7" source="39731" target="39727"/>
+      <edge id="8" source="39732" target="39727"/>
+      <edge id="9" source="39732" target="39728"/>
+    </edges>
+  </graph>
+</gexf>

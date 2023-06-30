@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="36506" label="36506">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36507" label="36507">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36508" label="36508">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36509" label="36509">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36510" label="36510">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36511" label="36511">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36512" label="36512">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36513" label="36513">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36514" label="36514">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36515" label="36515">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36516" label="36516">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36517" label="36517">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36518" label="36518">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36519" label="36519">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36520" label="36520">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36521" label="36521">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36522" label="36522">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36523" label="36523">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36524" label="36524">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36525" label="36525">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36526" label="36526">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="36527" label="36527">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="36521" target="36506"/>
+      <edge id="1" source="36518" target="36507"/>
+      <edge id="10" source="36516" target="36512"/>
+      <edge id="11" source="36517" target="36512"/>
+      <edge id="12" source="36524" target="36513"/>
+      <edge id="13" source="36526" target="36513"/>
+      <edge id="14" source="36525" target="36514"/>
+      <edge id="15" source="36527" target="36514"/>
+      <edge id="16" source="36516" target="36515"/>
+      <edge id="17" source="36518" target="36515"/>
+      <edge id="18" source="36519" target="36516"/>
+      <edge id="19" source="36506" target="36517"/>
+      <edge id="2" source="36524" target="36507"/>
+      <edge id="20" source="36522" target="36521"/>
+      <edge id="21" source="36523" target="36522"/>
+      <edge id="3" source="36519" target="36508"/>
+      <edge id="4" source="36525" target="36508"/>
+      <edge id="5" source="36524" target="36509"/>
+      <edge id="6" source="36525" target="36510"/>
+      <edge id="7" source="36515" target="36511"/>
+      <edge id="8" source="36517" target="36511"/>
+      <edge id="9" source="36520" target="36511"/>
+    </edges>
+  </graph>
+</gexf>

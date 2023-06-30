@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="28936" label="28936">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28937" label="28937">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28938" label="28938">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28939" label="28939">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28940" label="28940">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28941" label="28941">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28942" label="28942">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28943" label="28943">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28944" label="28944">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28945" label="28945">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28946" label="28946">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28947" label="28947">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28948" label="28948">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="28949" label="28949">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="28940" target="28937"/>
+      <edge id="1" source="28943" target="28937"/>
+      <edge id="10" source="28943" target="28942"/>
+      <edge id="11" source="28936" target="28943"/>
+      <edge id="12" source="28946" target="28944"/>
+      <edge id="13" source="28947" target="28944"/>
+      <edge id="14" source="28948" target="28947"/>
+      <edge id="15" source="28949" target="28948"/>
+      <edge id="2" source="28944" target="28937"/>
+      <edge id="3" source="28940" target="28938"/>
+      <edge id="4" source="28946" target="28938"/>
+      <edge id="5" source="28946" target="28939"/>
+      <edge id="6" source="28949" target="28939"/>
+      <edge id="7" source="28941" target="28940"/>
+      <edge id="8" source="28945" target="28940"/>
+      <edge id="9" source="28942" target="28941"/>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="20259" label="20259">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20260" label="20260">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20261" label="20261">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20262" label="20262">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20263" label="20263">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20264" label="20264">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20265" label="20265">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20266" label="20266">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20267" label="20267">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20268" label="20268">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20269" label="20269">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20270" label="20270">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20271" label="20271">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20272" label="20272">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20273" label="20273">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20274" label="20274">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20275" label="20275">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20276" label="20276">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20277" label="20277">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20278" label="20278">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20279" label="20279">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20280" label="20280">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20281" label="20281">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20282" label="20282">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="20283" label="20283">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="20277" target="20260"/>
+      <edge id="1" source="20264" target="20261"/>
+      <edge id="10" source="20271" target="20266"/>
+      <edge id="11" source="20269" target="20267"/>
+      <edge id="12" source="20276" target="20267"/>
+      <edge id="13" source="20269" target="20268"/>
+      <edge id="14" source="20277" target="20268"/>
+      <edge id="15" source="20272" target="20270"/>
+      <edge id="16" source="20273" target="20271"/>
+      <edge id="17" source="20274" target="20272"/>
+      <edge id="18" source="20275" target="20273"/>
+      <edge id="19" source="20276" target="20274"/>
+      <edge id="2" source="20264" target="20262"/>
+      <edge id="20" source="20277" target="20275"/>
+      <edge id="21" source="20259" target="20276"/>
+      <edge id="22" source="20279" target="20278"/>
+      <edge id="23" source="20280" target="20278"/>
+      <edge id="24" source="20281" target="20279"/>
+      <edge id="25" source="20282" target="20280"/>
+      <edge id="26" source="20283" target="20281"/>
+      <edge id="27" source="20283" target="20282"/>
+      <edge id="3" source="20265" target="20263"/>
+      <edge id="4" source="20266" target="20263"/>
+      <edge id="5" source="20278" target="20263"/>
+      <edge id="6" source="20281" target="20264"/>
+      <edge id="7" source="20267" target="20265"/>
+      <edge id="8" source="20270" target="20265"/>
+      <edge id="9" source="20268" target="20266"/>
+    </edges>
+  </graph>
+</gexf>

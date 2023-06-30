@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="27097" label="27097">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27098" label="27098">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27099" label="27099">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27100" label="27100">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27101" label="27101">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27102" label="27102">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27103" label="27103">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27104" label="27104">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27105" label="27105">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27106" label="27106">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27107" label="27107">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27108" label="27108">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27109" label="27109">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27110" label="27110">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27111" label="27111">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27112" label="27112">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27113" label="27113">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27114" label="27114">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27115" label="27115">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27116" label="27116">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27117" label="27117">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27118" label="27118">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27119" label="27119">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="27120" label="27120">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="27116" target="27097"/>
+      <edge id="1" source="27104" target="27098"/>
+      <edge id="10" source="27097" target="27103"/>
+      <edge id="11" source="27104" target="27103"/>
+      <edge id="12" source="27105" target="27103"/>
+      <edge id="13" source="27106" target="27104"/>
+      <edge id="14" source="27107" target="27105"/>
+      <edge id="15" source="27109" target="27108"/>
+      <edge id="16" source="27111" target="27109"/>
+      <edge id="17" source="27120" target="27109"/>
+      <edge id="18" source="27111" target="27110"/>
+      <edge id="19" source="27112" target="27110"/>
+      <edge id="2" source="27117" target="27098"/>
+      <edge id="20" source="27113" target="27110"/>
+      <edge id="21" source="27114" target="27112"/>
+      <edge id="22" source="27115" target="27113"/>
+      <edge id="23" source="27119" target="27114"/>
+      <edge id="24" source="27119" target="27115"/>
+      <edge id="3" source="27105" target="27099"/>
+      <edge id="4" source="27118" target="27099"/>
+      <edge id="5" source="27111" target="27100"/>
+      <edge id="6" source="27120" target="27101"/>
+      <edge id="7" source="27106" target="27102"/>
+      <edge id="8" source="27107" target="27102"/>
+      <edge id="9" source="27108" target="27102"/>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="1928" label="1928">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1929" label="1929">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1930" label="1930">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1931" label="1931">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1932" label="1932">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1933" label="1933">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1934" label="1934">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1935" label="1935">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1936" label="1936">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1937" label="1937">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1938" label="1938">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1939" label="1939">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1940" label="1940">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1941" label="1941">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1942" label="1942">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1943" label="1943">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1944" label="1944">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1945" label="1945">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1946" label="1946">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1947" label="1947">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1928" target="1929"/>
+      <edge id="1" source="1930" target="1929"/>
+      <edge id="10" source="1938" target="1933"/>
+      <edge id="11" source="1939" target="1938"/>
+      <edge id="12" source="1939" target="1930"/>
+      <edge id="13" source="1940" target="1939"/>
+      <edge id="14" source="1941" target="1940"/>
+      <edge id="15" source="1941" target="1928"/>
+      <edge id="16" source="1942" target="1940"/>
+      <edge id="17" source="1943" target="1942"/>
+      <edge id="18" source="1943" target="1937"/>
+      <edge id="19" source="1944" target="1943"/>
+      <edge id="2" source="1931" target="1930"/>
+      <edge id="20" source="1945" target="1936"/>
+      <edge id="21" source="1946" target="1945"/>
+      <edge id="22" source="1947" target="1945"/>
+      <edge id="3" source="1932" target="1931"/>
+      <edge id="4" source="1933" target="1932"/>
+      <edge id="5" source="1934" target="1933"/>
+      <edge id="6" source="1935" target="1934"/>
+      <edge id="7" source="1936" target="1935"/>
+      <edge id="8" source="1937" target="1936"/>
+      <edge id="9" source="1938" target="1937"/>
+    </edges>
+  </graph>
+</gexf>

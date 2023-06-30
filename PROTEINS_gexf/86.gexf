@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="5082" label="5082">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="5083" label="5083">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="5084" label="5084">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="5085" label="5085">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="5086" label="5086">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="5087" label="5087">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="5088" label="5088">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="5084" target="5082"/>
+      <edge id="1" source="5086" target="5082"/>
+      <edge id="10" source="5088" target="5086"/>
+      <edge id="11" source="5088" target="5087"/>
+      <edge id="2" source="5082" target="5083"/>
+      <edge id="3" source="5084" target="5083"/>
+      <edge id="4" source="5086" target="5083"/>
+      <edge id="5" source="5086" target="5084"/>
+      <edge id="6" source="5086" target="5085"/>
+      <edge id="7" source="5087" target="5085"/>
+      <edge id="8" source="5088" target="5085"/>
+      <edge id="9" source="5087" target="5086"/>
+    </edges>
+  </graph>
+</gexf>

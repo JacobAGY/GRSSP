@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="2212" label="2212">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2213" label="2213">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2214" label="2214">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2215" label="2215">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2216" label="2216">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2217" label="2217">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2218" label="2218">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2219" label="2219">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2220" label="2220">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2221" label="2221">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2222" label="2222">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2223" label="2223">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2224" label="2224">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2225" label="2225">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2226" label="2226">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2227" label="2227">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2228" label="2228">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="2229" label="2229">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="2221" target="2212"/>
+      <edge id="1" source="2229" target="2213"/>
+      <edge id="10" source="2222" target="2221"/>
+      <edge id="11" source="2223" target="2222"/>
+      <edge id="12" source="2224" target="2223"/>
+      <edge id="13" source="2225" target="2224"/>
+      <edge id="14" source="2226" target="2224"/>
+      <edge id="15" source="2227" target="2225"/>
+      <edge id="16" source="2228" target="2226"/>
+      <edge id="17" source="2229" target="2227"/>
+      <edge id="18" source="2229" target="2228"/>
+      <edge id="2" source="2223" target="2214"/>
+      <edge id="3" source="2218" target="2215"/>
+      <edge id="4" source="2220" target="2215"/>
+      <edge id="5" source="2219" target="2216"/>
+      <edge id="6" source="2220" target="2216"/>
+      <edge id="7" source="2218" target="2217"/>
+      <edge id="8" source="2219" target="2217"/>
+      <edge id="9" source="2212" target="2220"/>
+    </edges>
+  </graph>
+</gexf>

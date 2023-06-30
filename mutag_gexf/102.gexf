@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="1843" label="1843">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1844" label="1844">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1845" label="1845">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1846" label="1846">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1847" label="1847">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1848" label="1848">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1849" label="1849">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1850" label="1850">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1851" label="1851">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1852" label="1852">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1853" label="1853">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1854" label="1854">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1855" label="1855">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1856" label="1856">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1857" label="1857">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1858" label="1858">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1859" label="1859">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1860" label="1860">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1861" label="1861">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1862" label="1862">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1863" label="1863">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1864" label="1864">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1865" label="1865">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1866" label="1866">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1867" label="1867">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="1868" label="1868">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1843" target="1844"/>
+      <edge id="1" source="1845" target="1844"/>
+      <edge id="10" source="1852" target="1847"/>
+      <edge id="11" source="1853" target="1852"/>
+      <edge id="12" source="1854" target="1853"/>
+      <edge id="13" source="1855" target="1854"/>
+      <edge id="14" source="1856" target="1855"/>
+      <edge id="15" source="1856" target="1851"/>
+      <edge id="16" source="1857" target="1855"/>
+      <edge id="17" source="1858" target="1857"/>
+      <edge id="18" source="1859" target="1857"/>
+      <edge id="19" source="1860" target="1853"/>
+      <edge id="2" source="1846" target="1845"/>
+      <edge id="20" source="1861" target="1860"/>
+      <edge id="21" source="1862" target="1860"/>
+      <edge id="22" source="1863" target="1846"/>
+      <edge id="23" source="1864" target="1863"/>
+      <edge id="24" source="1865" target="1863"/>
+      <edge id="25" source="1866" target="1844"/>
+      <edge id="26" source="1867" target="1866"/>
+      <edge id="27" source="1868" target="1866"/>
+      <edge id="3" source="1847" target="1846"/>
+      <edge id="4" source="1848" target="1847"/>
+      <edge id="5" source="1848" target="1843"/>
+      <edge id="6" source="1849" target="1848"/>
+      <edge id="7" source="1850" target="1849"/>
+      <edge id="8" source="1851" target="1849"/>
+      <edge id="9" source="1852" target="1851"/>
+    </edges>
+  </graph>
+</gexf>

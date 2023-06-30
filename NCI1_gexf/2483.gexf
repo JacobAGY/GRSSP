@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="70099" label="70099">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70100" label="70100">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70101" label="70101">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70102" label="70102">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70103" label="70103">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70104" label="70104">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70105" label="70105">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70106" label="70106">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70107" label="70107">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70108" label="70108">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70109" label="70109">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70110" label="70110">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70111" label="70111">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70112" label="70112">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70113" label="70113">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70114" label="70114">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70115" label="70115">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70116" label="70116">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70117" label="70117">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70118" label="70118">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70119" label="70119">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70120" label="70120">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70121" label="70121">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70122" label="70122">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="70123" label="70123">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="70122" target="70099"/>
+      <edge id="1" source="70123" target="70100"/>
+      <edge id="10" source="70114" target="70105"/>
+      <edge id="11" source="70118" target="70106"/>
+      <edge id="12" source="70108" target="70107"/>
+      <edge id="13" source="70109" target="70107"/>
+      <edge id="14" source="70112" target="70107"/>
+      <edge id="15" source="70110" target="70108"/>
+      <edge id="16" source="70113" target="70108"/>
+      <edge id="17" source="70111" target="70110"/>
+      <edge id="18" source="70114" target="70110"/>
+      <edge id="19" source="70116" target="70115"/>
+      <edge id="2" source="70109" target="70101"/>
+      <edge id="20" source="70117" target="70115"/>
+      <edge id="21" source="70119" target="70116"/>
+      <edge id="22" source="70120" target="70117"/>
+      <edge id="23" source="70121" target="70119"/>
+      <edge id="24" source="70121" target="70120"/>
+      <edge id="25" source="70099" target="70121"/>
+      <edge id="3" source="70115" target="70101"/>
+      <edge id="4" source="70111" target="70102"/>
+      <edge id="5" source="70112" target="70102"/>
+      <edge id="6" source="70111" target="70103"/>
+      <edge id="7" source="70118" target="70103"/>
+      <edge id="8" source="70114" target="70104"/>
+      <edge id="9" source="70118" target="70104"/>
+    </edges>
+  </graph>
+</gexf>

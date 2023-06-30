@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="35693" label="35693">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35694" label="35694">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35695" label="35695">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35696" label="35696">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35697" label="35697">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35698" label="35698">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="35695" target="35693"/>
+      <edge id="1" source="35696" target="35693"/>
+      <edge id="10" source="35698" target="35696"/>
+      <edge id="11" source="35698" target="35697"/>
+      <edge id="2" source="35693" target="35694"/>
+      <edge id="3" source="35695" target="35694"/>
+      <edge id="4" source="35696" target="35694"/>
+      <edge id="5" source="35697" target="35694"/>
+      <edge id="6" source="35696" target="35695"/>
+      <edge id="7" source="35697" target="35695"/>
+      <edge id="8" source="35698" target="35695"/>
+      <edge id="9" source="35697" target="35696"/>
+    </edges>
+  </graph>
+</gexf>

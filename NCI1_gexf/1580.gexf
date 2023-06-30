@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="39952" label="39952">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39953" label="39953">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39954" label="39954">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39955" label="39955">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39956" label="39956">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39957" label="39957">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39958" label="39958">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39959" label="39959">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39960" label="39960">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39961" label="39961">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39962" label="39962">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39963" label="39963">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39964" label="39964">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39965" label="39965">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39966" label="39966">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39967" label="39967">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39968" label="39968">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39969" label="39969">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39970" label="39970">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39971" label="39971">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39972" label="39972">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39973" label="39973">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39974" label="39974">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39975" label="39975">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="39976" label="39976">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="39971" target="39953"/>
+      <edge id="1" source="39962" target="39954"/>
+      <edge id="10" source="39971" target="39958"/>
+      <edge id="11" source="39974" target="39958"/>
+      <edge id="12" source="39967" target="39959"/>
+      <edge id="13" source="39973" target="39959"/>
+      <edge id="14" source="39975" target="39959"/>
+      <edge id="15" source="39968" target="39960"/>
+      <edge id="16" source="39969" target="39960"/>
+      <edge id="17" source="39973" target="39961"/>
+      <edge id="18" source="39976" target="39961"/>
+      <edge id="19" source="39973" target="39962"/>
+      <edge id="2" source="39962" target="39955"/>
+      <edge id="20" source="39964" target="39963"/>
+      <edge id="21" source="39965" target="39964"/>
+      <edge id="22" source="39967" target="39965"/>
+      <edge id="23" source="39968" target="39966"/>
+      <edge id="24" source="39970" target="39966"/>
+      <edge id="25" source="39952" target="39970"/>
+      <edge id="26" source="39976" target="39975"/>
+      <edge id="3" source="39963" target="39956"/>
+      <edge id="4" source="39966" target="39956"/>
+      <edge id="5" source="39969" target="39956"/>
+      <edge id="6" source="39968" target="39957"/>
+      <edge id="7" source="39971" target="39957"/>
+      <edge id="8" source="39972" target="39957"/>
+      <edge id="9" source="39970" target="39958"/>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="42810" label="42810">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42811" label="42811">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42812" label="42812">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42813" label="42813">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42814" label="42814">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42815" label="42815">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42816" label="42816">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42817" label="42817">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42818" label="42818">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42819" label="42819">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42820" label="42820">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42821" label="42821">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42822" label="42822">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="42823" label="42823">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="42812" target="42810"/>
+      <edge id="1" source="42813" target="42810"/>
+      <edge id="10" source="42819" target="42812"/>
+      <edge id="11" source="42819" target="42813"/>
+      <edge id="12" source="42820" target="42813"/>
+      <edge id="13" source="42815" target="42814"/>
+      <edge id="14" source="42820" target="42814"/>
+      <edge id="15" source="42816" target="42815"/>
+      <edge id="16" source="42819" target="42815"/>
+      <edge id="17" source="42821" target="42815"/>
+      <edge id="18" source="42817" target="42816"/>
+      <edge id="19" source="42820" target="42816"/>
+      <edge id="2" source="42814" target="42810"/>
+      <edge id="20" source="42818" target="42817"/>
+      <edge id="21" source="42823" target="42817"/>
+      <edge id="22" source="42822" target="42818"/>
+      <edge id="23" source="42823" target="42818"/>
+      <edge id="24" source="42820" target="42819"/>
+      <edge id="25" source="42821" target="42820"/>
+      <edge id="26" source="42822" target="42821"/>
+      <edge id="27" source="42823" target="42822"/>
+      <edge id="3" source="42810" target="42811"/>
+      <edge id="4" source="42812" target="42811"/>
+      <edge id="5" source="42813" target="42811"/>
+      <edge id="6" source="42814" target="42811"/>
+      <edge id="7" source="42815" target="42811"/>
+      <edge id="8" source="42819" target="42811"/>
+      <edge id="9" source="42813" target="42812"/>
+    </edges>
+  </graph>
+</gexf>

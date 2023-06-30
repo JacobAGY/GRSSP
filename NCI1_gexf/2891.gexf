@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="82838" label="82838">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82839" label="82839">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82840" label="82840">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82841" label="82841">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82842" label="82842">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82843" label="82843">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82844" label="82844">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82845" label="82845">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82846" label="82846">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82847" label="82847">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82848" label="82848">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82849" label="82849">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82850" label="82850">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82851" label="82851">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82852" label="82852">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82853" label="82853">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82854" label="82854">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82855" label="82855">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82856" label="82856">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="82857" label="82857">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="82851" target="82839"/>
+      <edge id="1" source="82851" target="82840"/>
+      <edge id="10" source="82849" target="82847"/>
+      <edge id="11" source="82851" target="82847"/>
+      <edge id="12" source="82850" target="82848"/>
+      <edge id="13" source="82852" target="82849"/>
+      <edge id="14" source="82853" target="82850"/>
+      <edge id="15" source="82854" target="82850"/>
+      <edge id="16" source="82838" target="82853"/>
+      <edge id="17" source="82855" target="82853"/>
+      <edge id="18" source="82856" target="82854"/>
+      <edge id="19" source="82857" target="82855"/>
+      <edge id="2" source="82851" target="82841"/>
+      <edge id="20" source="82857" target="82856"/>
+      <edge id="3" source="82852" target="82842"/>
+      <edge id="4" source="82852" target="82843"/>
+      <edge id="5" source="82852" target="82844"/>
+      <edge id="6" source="82847" target="82845"/>
+      <edge id="7" source="82848" target="82845"/>
+      <edge id="8" source="82848" target="82846"/>
+      <edge id="9" source="82849" target="82846"/>
+    </edges>
+  </graph>
+</gexf>

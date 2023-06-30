@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2022-03-03">
+    <creator>http://www.gexf.net/1.1draft</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="label" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="35014" label="35014">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35015" label="35015">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35016" label="35016">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35017" label="35017">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35018" label="35018">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35019" label="35019">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35020" label="35020">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35021" label="35021">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35022" label="35022">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+      <node id="35023" label="35023">
+        <attvalues>
+          <attvalue for="0" value="0"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="35016" target="35014"/>
+      <edge id="1" source="35020" target="35014"/>
+      <edge id="10" source="35020" target="35019"/>
+      <edge id="11" source="35021" target="35019"/>
+      <edge id="12" source="35021" target="35020"/>
+      <edge id="13" source="35022" target="35021"/>
+      <edge id="14" source="35023" target="35022"/>
+      <edge id="2" source="35014" target="35015"/>
+      <edge id="3" source="35016" target="35015"/>
+      <edge id="4" source="35019" target="35015"/>
+      <edge id="5" source="35017" target="35016"/>
+      <edge id="6" source="35018" target="35017"/>
+      <edge id="7" source="35023" target="35017"/>
+      <edge id="8" source="35022" target="35018"/>
+      <edge id="9" source="35023" target="35018"/>
+    </edges>
+  </graph>
+</gexf>
